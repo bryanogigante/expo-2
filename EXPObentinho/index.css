@@ -3,23 +3,26 @@ body{
 }
 
 button{
-    margin-left: 40px;
-    align-items: right;
-
+    margin-left: 0px;
+    align-items: center;
+    border: none;
+    background-color: #0588f3;
+    padding: 0.4em;
+    border-radius: 10.5em;
+    opacity: 0.5;
+}
 a{
     margin-left: 10px;
     align-items: center;
-}}
+}
 
 body{
     background-image: url(2x1_SuperMarioHub_image1600w.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-div{
-    margin-left: 580px;
-    
-}
-div{
-    margin-left: 100;
+img{
+    margin-left: 555px;
+    opacity: 0.9;
+   
 }
